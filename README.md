@@ -4,7 +4,7 @@ AdvancedCal is a Python desktop scientific calculator and learning workspace. It
 
 Created by **Fidèle Togbédji ZOGBE**, a computer engineering student and Python developer from Benin.
 
-GitHub: [@fidel147](https://github.com/fidel147)
+GitHub: [@fidele-zogbe](https://github.com/fidele-zogbe)
 
 ## Features
 
