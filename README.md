@@ -2,8 +2,6 @@
 
 AdvancedCal is a Python desktop scientific calculator and learning workspace. It combines everyday calculations with symbolic mathematics, numerical methods, matrices, number theory, data analysis, image editing, and a creator profile.
 
-Created by **Fidèle Togbédji ZOGBE**, a computer engineering student and Python developer from Benin.
-
 GitHub: [@fidele-zogbe](https://github.com/fidele-zogbe)
 
 ## Features
@@ -147,10 +145,6 @@ AdvancedCal/
 
 ## Scope and limitations
 
-AdvancedCal is a local desktop application. Advanced features such as OCR, cloud projects, external AI services, full layered image editing, database imports, and cross-platform packaging are not enabled by default. The roadmap records planned extensions without presenting them as implemented functionality.
+AdvancedCal is a local desktop application. Advanced features such as OCR, cloud projects, full layered image editing, database imports, and cross-platform packaging are not enabled by default. The roadmap records planned extensions without presenting them as implemented functionality.
 
 External GitHub avatar loading and profile links require network access; local calculator, data, statistical, and image operations do not.
-
-## License
-
-No license has been selected yet.
